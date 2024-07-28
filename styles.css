@@ -1,24 +1,29 @@
 h1,h2,h3,h4{
     text-align: center;
 }
-.note{
+.italic{
     font-style: oblique;
-    text-align: center;
+    color:#ca2405;
+    
 }
+p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 .annot-text{
     display: flex;
+
 }
 em{
-    color:#157294;
+
     margin-left:2em;
 }
 .annot{
+    text-align: right !important;
     width:2em !important;
     flex-shrink: 0;
-    color:#157294;
-}
-.scripture{
-    color:lightseagreen
+    color:#ca2405;
 }
 body{
     padding-left:13em;
@@ -26,7 +31,4 @@ body{
     font-family: 'Garamond', serif;
     font-size: x-large;
 }
-p{
-    text-align: justify;
-    text-justify: inter-word;
-}
+
