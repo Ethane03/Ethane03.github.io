@@ -5,14 +5,26 @@ h1,h2,h3,h4{
     font-style: oblique;
     text-align: center;
 }
+.annot-text{
+    display: flex;
+}
+em{
+    color:#157294;
+    margin-left:2em;
+}
+.annot{
+    width:2em !important;
+    flex-shrink: 0;
+    color:#157294;
+}
 .scripture{
     color:lightseagreen
 }
 body{
-    padding-left:28%;
-    padding-right:28%;
+    padding-left:13em;
+    padding-right:15em;
     font-family: 'Garamond', serif;
-    font-size: large;
+    font-size: x-large;
 }
 p{
     text-align: justify;
