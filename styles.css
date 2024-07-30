@@ -1,5 +1,6 @@
 h1,h2,h3,h4{
     text-align: center;
+    margin-left:2.5em;
 }
 .italic{
     font-style: oblique;
@@ -21,13 +22,14 @@ em{
 }
 .annot{
     text-align: right !important;
-    width:2em !important;
+    width:5em !important;
     flex-shrink: 0;
     color:#ca2405;
 }
+
 body{
-    padding-left:17em;
-    padding-right:19em;
+    padding-left:20em;
+    padding-right:25em;
     font-family: 'Garamond', serif;
     font-size: large;
 }
