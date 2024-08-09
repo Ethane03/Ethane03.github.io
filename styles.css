@@ -23,9 +23,7 @@ p{
 
 .annot-text{
     display: flex;
-
 }
-
 .annot{
     text-align: right !important;
     width:5em !important;
