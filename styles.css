@@ -2,7 +2,6 @@ h1,h2,h3,h4{
     text-align: center;
     font-family:'Coelacanth';
     font-weight: 400;
-    color:green;
 }
 @media only screen and (min-width: 768px) {  
     body{
@@ -19,13 +18,12 @@ h1,h2,h3,h4{
     }
 }
 /* Extra small devices (phones, 767px and down) */
-@media only screen and (max-width: 767px) {  
+@media only screen and (max-width: 600px) {  
     body{
         padding-left:10em;
         padding-right:7em;
         font-family: 'Garamond';
         font-size: large;
-        background-color: lightblue;
     }  
     .annot{
         text-align: right !important;
