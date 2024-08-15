@@ -2,7 +2,7 @@ h1,h2,h3,h4{
     text-align: center;
     font-family:'Coelacanth';
     font-weight: 400;
-    
+    color:green;
 }
 @media only screen and (min-width: 768px) {  
     body{
@@ -18,7 +18,7 @@ h1,h2,h3,h4{
         color:#ca2405;
     }
 }
-/* Extra small devices (phones, 600px and down) */
+/* Extra small devices (phones, 767px and down) */
 @media only screen and (max-width: 767px) {  
     body{
         padding-left:10em;
