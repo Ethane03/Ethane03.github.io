@@ -25,6 +25,7 @@ h1,h2,h3,h4{
         padding-right:7em;
         font-family: 'Garamond';
         font-size: large;
+        background-color: lightblue;
     }  
     .annot{
         text-align: right !important;
