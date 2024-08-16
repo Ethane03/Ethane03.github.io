@@ -4,8 +4,8 @@ h1,h2,h3,h4{
     font-weight: 400;
 }
 body{
-    padding-left:4em;
-    padding-right:2em;
+    padding-left:2em;
+    padding-right:4em;
     font-family: 'Garamond';
     font-size:2em!important;
 }  
