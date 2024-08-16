@@ -2,6 +2,7 @@ h1,h2,h3,h4{
     text-align: center;
     font-family:'Coelacanth';
     font-weight: 400;
+    font-variant: small-caps;
 }
 body{
     padding-left:2em;
