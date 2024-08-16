@@ -3,36 +3,20 @@ h1,h2,h3,h4{
     font-family:'Coelacanth';
     font-weight: 400;
 }
-/* Extra small devices (phones, 767px and down) */
-@media only screen and (min-width: 600px) {  
-    body{
-        padding-left:10em;
-        padding-right:7em;
-        font-family: 'Garamond';
-        font-size: large;
-    }  
-    .annot{
-        text-align: right !important;
-        width:2em !important;
-        flex-shrink: 0;
-        color:#ca2405;
-    }
+body{
+    padding-left:10em;
+    padding-right:7em;
+    font-family: 'Garamond';
+    font-size: large;
+}  
+.annot{
+    text-align: right !important;
+    width:2em !important;
+    flex-shrink: 0;
+    color:#ca2405;
+}
  
-}
-@media only screen and (min-width: 992px) {  
-    body{
-        padding-left:20em;
-        padding-right:25em;
-        font-family: 'Garamond';
-        font-size: large;
-    }
-    .annot{
-        text-align: right !important;
-        width:5em !important;
-        flex-shrink: 0;
-        color:#ca2405;
-    }
-}
+
 
 .italic{
     font-style: oblique;
