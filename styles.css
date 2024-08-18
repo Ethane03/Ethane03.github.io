@@ -5,14 +5,14 @@ h1,h2,h3,h4{
     font-variant: small-caps;
 }
 body{
-    padding-left:2em;
-    padding-right:4em;
+    padding-left:1em;
+    padding-right:1em;
     font-family: 'Garamond';
     font-size:2em!important;
 }  
 .annot{
     text-align: right !important;
-    width:2em !important;
+    width:1em !important;
     flex-shrink: 0;
     color:#ca2405;
 }
