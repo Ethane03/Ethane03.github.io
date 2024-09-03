@@ -12,7 +12,7 @@ body{
 }  
 .annot{
     text-align: right !important;
-    width:1em !important;
+    width:4em !important;
     flex-shrink: 0;
     color:#ca2405;
 }
