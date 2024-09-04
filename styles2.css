@@ -1,6 +1,6 @@
 /* General Styles */
 body {
-    font-family: 'Garamond';
+    font-family: Lyon-Text, Georgia, ui-serif, serif;
     font-size: large;
     margin: 0;
     display: flex; /* Use flexbox to align sidebar and main content */
