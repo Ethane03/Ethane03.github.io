@@ -54,7 +54,10 @@ html, body {
 #sidebar ul li a:hover {
     color: #007BFF;
 }
-
+.subtitle{
+    text-align: center;
+    font-style: italic;
+}
 /* Main Content Styles */
 main {
     flex: 1; /* Allow main content to take up remaining space */
@@ -62,6 +65,7 @@ main {
     padding-right: 10%;
     background-color: #fff;
     overflow: scroll;
+    margin-right:250px;
 }
 
 p {
