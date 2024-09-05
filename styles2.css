@@ -82,3 +82,12 @@ button:hover {
     background-color: #007BFF;
     color: #fff;
 }
+.annot{
+    text-align: left !important;
+    width:4em !important;
+    flex-shrink: 0;
+    color:lightcoral;
+}
+.annot-text{
+    display: flex;
+}
