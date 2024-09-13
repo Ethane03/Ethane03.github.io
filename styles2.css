@@ -72,6 +72,10 @@ html, body {
     text-align: center;
     font-style: italic;
 }
+.midannot{
+    text-align: center;
+    font-family: "Garamond" !important;
+}
 /* Main Content Styles */
 main {
     flex: 1; /* Allow main content to take up remaining space */
