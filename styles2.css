@@ -1,6 +1,6 @@
 /* General Styles */
 body {
-    font-family: Lyon-Text, Georgia, Meera, ui-serif, serif;
+    font-family: Georgia, Meera, ui-serif, serif;
     font-size: large;
     margin: 0;
     display: flex; /* Use flexbox to align sidebar and main content */
@@ -11,7 +11,7 @@ body {
 }
 h1,h2,h3,h4{
     text-align: center;
-    font-family:'Garamond';
+    font-family:'Garamond', 'RIT rachana','Serto Malankara';
 }
 h1{
     font-size:2em;
