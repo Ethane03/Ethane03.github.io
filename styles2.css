@@ -37,7 +37,7 @@ html, body {
 
 /* Sidebar Styles */
 #sidebar {
-    width: 250px;
+    max-width: 250px;
     background-color: #f7e4bb;
     padding: 20px;
     height: 100vh;
@@ -85,7 +85,6 @@ main {
     padding-right: 10%;
     background-color: #fff;
     overflow: scroll;
-    margin-right:250px;
 }
 
 p {
